@@ -9,6 +9,7 @@
   "author": "zeeshan",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.8.0"
+    "amqplib": "^0.8.0",
+    "js-beautify": "^1.9.1"
   }
 }
